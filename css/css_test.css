@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    color: rgb(20, 15, 8);
+}
+
+우선 순위가 적용되며 계단식으로 진행된다. 
+
+h1 {
+    color: rgb(173, 84, 129);
+    font-size: 50px;
+}
+
+h1.test { 
+    color: aquamarine;
+}
+
